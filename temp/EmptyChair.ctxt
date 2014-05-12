@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=no
+comment0.target=EmptyChair(int)
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ EmptyChair\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=int\ getChairNo()
+comment2.params=world
+comment2.target=EmptyChair(greenfoot.World)
+comment3.params=
+comment3.target=EmptyChair()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=studentType
+comment0.target=Student(int)
+comment1.params=
+comment1.target=int\ getStudentType()
+comment2.params=flag\ no
+comment2.target=void\ setFlag(boolean,\ int)
+comment3.params=x\ y
+comment3.target=boolean\ getStudentToTable(int,\ int)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=x\ y\ tableNo
+comment5.target=void\ adjustStudentLocation(int,\ int,\ int)
+comment6.params=chairNo
+comment6.target=EmptyChair\ getEmptyChair(int)
+comment7.params=
+comment7.target=void\ changeStudentImage()
+comment8.params=
+comment8.target=int\ getChairX()
+comment9.params=
+comment9.target=int\ getChairY()
+numComments=10

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=gm
+comment0.target=Nothing(GestManager)
+comment1.params=
+comment1.target=void\ doPause()
+comment2.params=
+comment2.target=void\ doQuit()
+comment3.params=personState
+comment3.target=void\ doMovePerson(int)
+numComments=4

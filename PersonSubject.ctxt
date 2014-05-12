@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=person
+comment0.target=java.lang.Boolean\ highestHand(java.lang.String)
+comment1.params=joint
+comment1.target=int\ nearestJoint(java.lang.String)
+comment2.params=highHand\ joint
+comment2.target=int\ translateGestures(java.lang.String,\ java.lang.String)
+comment3.params=obj
+comment3.target=void\ attach(PlayerObserver)
+comment4.params=person
+comment4.target=void\ detach(PlayerObserver)
+comment5.params=
+comment5.target=void\ notifyObservers()
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=q
+comment0.target=QueueHasStudentState(Queue)
+comment1.params=
+comment1.target=Student\ addStudent()
+comment2.params=
+comment2.target=void\ removeStudent()
+numComments=3

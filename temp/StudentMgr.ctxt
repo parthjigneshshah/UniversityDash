@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=world\ queue
+comment0.target=StudentMgr(greenfoot.World,\ Queue)
+comment0.text=\ \ \r\n\ \ \ \ public\ StudentMgr(World\ world,\ Queue\ queue)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ this.world\ \=\ world;\r\n\ \ \ \ \ \ \ this.queue\ \=\ queue;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ }\r\n
+comment1.params=
+comment1.target=StudentMgr\ getStudentManager()
+comment2.params=tableNo
+comment2.target=void\ moveStudent(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment3.params=table
+comment3.target=void\ update(Table)
+numComments=4

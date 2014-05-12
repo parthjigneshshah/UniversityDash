@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GestManager()
+comment1.params=
+comment1.target=void\ pause()
+comment2.params=
+comment2.target=void\ quit()
+comment3.params=personState
+comment3.target=void\ movePerson(int)
+comment4.params=
+comment4.target=void\ nothing()
+comment5.params=nextState
+comment5.target=void\ setState(GestStates)
+comment6.params=
+comment6.target=void\ showState()
+numComments=7

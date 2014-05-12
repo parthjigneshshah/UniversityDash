@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TableTimer()
+comment1.params=studentType
+comment1.target=void\ setTime(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=tableNo
+comment3.target=void\ addStar(int)
+comment4.params=table
+comment4.target=void\ update(Table)
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=sub
+comment0.target=TutorObs(ConcreteSubject)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=
+comment2.target=void\ showState()
+numComments=3

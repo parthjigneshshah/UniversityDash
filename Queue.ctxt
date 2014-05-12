@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=Queue(greenfoot.World)
+comment1.params=queueState
+comment1.target=void\ setState(QueueState)
+comment2.params=
+comment2.target=EmptyQueueState\ getEmptyQueueState()
+comment3.params=
+comment3.target=QueueHasStudentState\ getHasStudentState()
+comment4.params=
+comment4.target=QueueFullState\ getQueueFullState()
+comment5.params=
+comment5.target=void\ addStudent()
+comment6.params=
+comment6.target=Student\ getNextStudent()
+comment7.params=
+comment7.target=int\ size()
+numComments=8

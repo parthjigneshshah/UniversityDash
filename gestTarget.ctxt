@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=highHand\ joint\ gestState
+comment0.target=void\ gestTranslator(java.lang.String,\ java.lang.String,\ int)
+numComments=1

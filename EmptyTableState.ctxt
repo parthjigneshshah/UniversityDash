@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=table
+comment0.target=EmptyTableState(Table)
+comment1.params=
+comment1.target=void\ seat()
+comment2.params=
+comment2.target=void\ leave()
+comment3.params=
+comment3.target=void\ tutor()
+comment4.params=
+comment4.target=void\ timeOut()
+numComments=5

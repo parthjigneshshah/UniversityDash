@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=world\ tutorManager\ scoreManager\ studentManager
+comment0.target=TableManager(greenfoot.World,\ TutorManager,\ ScoreManager,\ StudentMgr)
+comment1.params=tutorManager\ scoreManager\ studentManager
+comment1.target=void\ init(TutorManager,\ ScoreManager,\ StudentMgr)
+comment2.params=tableNo\ studentType\ student
+comment2.target=void\ studentSeated(int,\ int,\ Student)
+comment3.params=tableNo
+comment3.target=void\ tutorArrived(int)
+comment4.params=table
+comment4.target=void\ vacateTable(Table)
+comment5.params=tableNo
+comment5.target=Table\ getTable(int)
+numComments=6

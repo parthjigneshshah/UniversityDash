@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=user
+comment0.target=RightHandState(UserData)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=java.lang.String\ handCheck()
+numComments=3

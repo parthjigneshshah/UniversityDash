@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=TutorManager(greenfoot.World)
+comment1.params=
+comment1.target=TutorManager\ getTutorManager()
+comment2.params=table
+comment2.target=void\ update(Table)
+comment3.params=tableNo
+comment3.target=void\ moveTutor(int)
+numComments=4
